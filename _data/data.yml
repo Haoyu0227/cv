@@ -15,7 +15,7 @@ sidebar:
     email: haoyuw10@illinois.edu
     phone: 217 979 8219
     #website: blog.webjeda.com #do not add http://
-    linkedin: linkedin.com/in/haoyu-wang10
+    linkedin: https://www.linkedin.com/in/haoyu-wang10/
     #xing: alandoe
     #github: sharu725
     #telegram: # add your nickname without '@' sign
@@ -44,9 +44,9 @@ sidebar:
 career-profile:
     title: About me
     summary: |
-      Hi, I'm Haoyu Wang, a graduate student in CS at UIUC. 
-      I have a handsome boyfriend Daniel =).
-      I have a strong background in full stack development.
+      - Hi, I'm Haoyu Wang, a graduate student in CS at UIUC. 
+      I have a handsome boyfriend Daniel =)
+      - I have a strong background in full stack development.
       For backend techniques, I'm skilled in Express.js, Flask, ASP.NET Core, Hadoop and so on. 
       For frontend, I'm adept at React.js, Vue.js, CSS. 
       I have experience in databases such as MongoDB, PostgreSQL and Elasticsearch. 
