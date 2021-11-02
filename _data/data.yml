@@ -45,8 +45,8 @@ career-profile:
     title: About me
     summary: |
       Hi, I'm Haoyu Wang, a graduate student in CS at UIUC. 
-      I have a handsome boyfriend Daniel =)
-       I have a strong background in full stack development.
+      I have a handsome boyfriend Daniel =).
+      I have a strong background in full stack development.
       For backend techniques, I'm skilled in Express.js, Flask, ASP.NET Core, Hadoop and so on. 
       For frontend, I'm adept at React.js, Vue.js, CSS. 
       I have experience in databases such as MongoDB, PostgreSQL and Elasticsearch. 
@@ -57,16 +57,13 @@ education:
       university: University of Illinois at Urbana-Champaign
       time: Aug 2021 - Dec 2022
       details: |
-        GPA 4.0/4.0
-          - Bullet point
-          - Bullet point
+          - GPA 4.0/4.0
     - degree: Bachelor of Science in Statistics & Computer Science
       university: University of Illinois at Urbana-Champaign
       time: Aug 2019 - May 2021
       details: |
-        GPA: 3.94/4.0; graduated with Highest Distinction
-          - Bullet point
-          - Bullet point
+          - GPA: 3.94/4.0
+          - graduated with Highest Distinction
 experiences:
     - role: Software Engineer Intern
       time: Jun 2020 - Aug 2020
@@ -166,4 +163,4 @@ skills:
         level: 95%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Haoyu Wang</a>
