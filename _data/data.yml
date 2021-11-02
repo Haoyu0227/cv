@@ -45,145 +45,131 @@ career-profile:
     title: Career Profile
     summary: |
       Hi, I'm Haoyu Wang, a graduate student in CS at UIUC. 
-      I have a handsome boyfriend Daniel whom I love so much.
+      I have a handsome boyfriend Daniel =)
       I have a strong background in full stack development.
       For backend techniques, I'm skilled in Express.js, Flask, ASP.NET Core, Hadoop and so on. 
       For frontend, I'm adept at React.js, Vue.js, CSS. 
       I have experience in databases such as MongoDB, PostgreSQL and Elasticsearch. 
       I conducted extensive internships and projects. 
-      I was a software engineer intern at NetEase in 2020 and Xiaomi in 2021.  
-      I'm now actively seeking Summer 2022 SWE Intern opportunities.
+      I was a software engineer intern at NetEase in 2020 and Xiaomi in 2021. I'm now actively seeking Summer 2022 SWE Intern opportunities.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Master of Computer Science
+      university: University of Illinois at Urbana-Champaign
+      time: Aug 2021 - Dec 2022
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        GPA 4.0/4.0
           - Bullet point
           - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: Bachelor of Science in Statistics & Computer Science
+      university: University of Illinois at Urbana-Champaign
+      time: Aug 2019 - May 2021
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        GPA: 3.94/4.0; graduated with Highest Distinction
           - Bullet point
           - Bullet point
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Software Engineer Intern
+      time: Jun 2020 - Aug 2020
+      company: NetEase, Inc. -- Top 5 IT company in China
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        • Designed querying system for user records of NetEase CC Live Broadcast, currently used by 200+ operations managers
+        • Used Hive to query data stored in HDFS to realize searches among billions of records older than a week
+        • Queued Hadoop search tasks with Redis Queue and visualized each task’s position in queue
+        • Created function using Elasticsearch for searching user records among tens of millions of records within one week, time of searching reduced from half hour to seconds
+        • Developed RESTful APIs and responsive interface of querying system with Python, Flask, Vue.js, AJAX, CSS
           - Bullet point
           - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Software Engineer Intern
+      time: June 2021 – Aug 2021
+      company: Xiaomi Corporation -- Top 5 IT company in China
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        • Built MIUI (Android Open Source Project of Xiaomi phone, over 100 million users) with Ninja; extracted and indexed compilations with Kythe tools in shell scripts
+        • Applied Java API, processes and mutex to write over 30 TB indexer’s output to HDFS
+        • Visualized cross-references of MIUI with Kythe tools on web UI, assisting 3000+ developers of Xiaomi mobile phone department in navigation of code
           - Bullet point
           - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Undergraduate Research Assistant under Prof. Lawrence Angrave
+      time: Aug 2020 – Dec 2020
+      company: ClassTranscribe -- open-source video lecture platform of UIUC
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        • Implemented Google-like search engine based on Elasticsearch for ClassTranscribe, benefitting 1000+ UIUC students
+        • Created indexes by importing data from PostgreSQL to Elasticsearch using Logstash and visualized data with Kibana
+        • Developed search engine feature supporting incremental, fuzzy and full-text search for captions within course videos using NEST with ASP.NET Core
           - Bullet point
           - Bullet point
 projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    title: PROJECT HIGHLIGHTS
+    
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: UIUC Tutor Online
+        link: "http://uiuctutor.web.illinois.edu/x/"
+        tagline: "A responsive website pairing students and tutors at UIUC"
 
-      - title: DevStudio
+      - title: There’s A Good Match
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "A web application helping people with disabilities find matching jobs."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: Python
         level: 95%
 
-      - name: Ruby on Rails
+      - name: Javascript
+        level: 95%
+
+      - name: Java
+        level: 95%
+
+      - name: HTML & CSS
+        level: 95%
+
+      - name: Shell
+        level: 90%
+
+      - name: Node.js
+        level: 95%
+      
+      - name: React.js
+        level: 95%
+
+      - name: Vue.js
+        level: 80%
+
+      - name: ASP.NET Core
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Hadoop
+        level: 85%
+
+      - name: MongoDB
+        level: 95%
+
+      - name: PostgreSQL
+        level: 95%
+      
+      - name: Elasticsearch
+        level: 95%
+
+      - name: MySQL
+        level: 95%
+
+      - name: Redis
+        level: 95%
+      
+      - name: Docker
+        level: 95%
+
+      - name: Kibana
+        level: 90%
+      
+      - name: Logstash
+        level: 90%
+
+      - name: Git
+        level: 95%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
