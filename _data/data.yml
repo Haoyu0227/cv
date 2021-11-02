@@ -42,11 +42,11 @@ sidebar:
         link:
 
 career-profile:
-    title: Career Profile
+    title: About me
     summary: |
       Hi, I'm Haoyu Wang, a graduate student in CS at UIUC. 
       I have a handsome boyfriend Daniel =)
-      I have a strong background in full stack development.
+       I have a strong background in full stack development.
       For backend techniques, I'm skilled in Express.js, Flask, ASP.NET Core, Hadoop and so on. 
       For frontend, I'm adept at React.js, Vue.js, CSS. 
       I have experience in databases such as MongoDB, PostgreSQL and Elasticsearch. 
@@ -72,31 +72,25 @@ experiences:
       time: Jun 2020 - Aug 2020
       company: NetEase, Inc. -- Top 5 IT company in China
       details: |
-        • Designed querying system for user records of NetEase CC Live Broadcast, currently used by 200+ operations managers
-        • Used Hive to query data stored in HDFS to realize searches among billions of records older than a week
-        • Queued Hadoop search tasks with Redis Queue and visualized each task’s position in queue
-        • Created function using Elasticsearch for searching user records among tens of millions of records within one week, time of searching reduced from half hour to seconds
-        • Developed RESTful APIs and responsive interface of querying system with Python, Flask, Vue.js, AJAX, CSS
-          - Bullet point
-          - Bullet point
+          - Designed querying system for user records of NetEase CC Live Broadcast, currently used by 200+ operations managers
+          - Used Hive to query data stored in HDFS to realize searches among billions of records older than a week
+          - Queued Hadoop search tasks with Redis Queue and visualized each task’s position in queue
+          - Created function using Elasticsearch for searching user records among tens of millions of records within one week, time of searching reduced from half hour to seconds
+          - Developed RESTful APIs and responsive interface of querying system with Python, Flask, Vue.js, AJAX, CSS
     - role: Software Engineer Intern
       time: June 2021 – Aug 2021
       company: Xiaomi Corporation -- Top 5 IT company in China
       details: |
-        • Built MIUI (Android Open Source Project of Xiaomi phone, over 100 million users) with Ninja; extracted and indexed compilations with Kythe tools in shell scripts
-        • Applied Java API, processes and mutex to write over 30 TB indexer’s output to HDFS
-        • Visualized cross-references of MIUI with Kythe tools on web UI, assisting 3000+ developers of Xiaomi mobile phone department in navigation of code
-          - Bullet point
-          - Bullet point
+          - Built MIUI (Android Open Source Project of Xiaomi phone, over 100 million users) with Ninja; extracted and indexed compilations with Kythe tools in shell scripts
+          - Applied Java API, processes and mutex to write over 30 TB indexer’s output to HDFS
+          - Visualized cross-references of MIUI with Kythe tools on web UI, assisting 3000+ developers of Xiaomi mobile phone department in navigation of code
     - role: Undergraduate Research Assistant under Prof. Lawrence Angrave
       time: Aug 2020 – Dec 2020
       company: ClassTranscribe -- open-source video lecture platform of UIUC
       details: |
-        • Implemented Google-like search engine based on Elasticsearch for ClassTranscribe, benefitting 1000+ UIUC students
-        • Created indexes by importing data from PostgreSQL to Elasticsearch using Logstash and visualized data with Kibana
-        • Developed search engine feature supporting incremental, fuzzy and full-text search for captions within course videos using NEST with ASP.NET Core
-          - Bullet point
-          - Bullet point
+          - Implemented Google-like search engine based on Elasticsearch for ClassTranscribe, benefitting 1000+ UIUC students
+          - Created indexes by importing data from PostgreSQL to Elasticsearch using Logstash and visualized data with Kibana
+          - Developed search engine feature supporting incremental, fuzzy and full-text search for captions within course videos using NEST with ASP.NET Core
 projects:
     title: PROJECT HIGHLIGHTS
     
