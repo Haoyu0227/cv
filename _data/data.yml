@@ -81,7 +81,7 @@ experiences:
           - Built MIUI (Android Open Source Project of Xiaomi phone, over 100 million users) with Ninja; extracted and indexed compilations with Kythe tools in shell scripts
           - Applied Java API, processes and mutex to write over 30 TB indexer’s output to HDFS
           - Visualized cross-references of MIUI with Kythe tools on web UI, assisting 3000+ developers of Xiaomi mobile phone department in navigation of code
-    - role: Undergraduate Research Assistant under Prof. Lawrence Angrave
+    - role: Full Stack Developer
       time: Aug 2020 – Dec 2020
       company: ClassTranscribe -- open-source video lecture platform of UIUC
       details: |
